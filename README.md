@@ -9,4 +9,4 @@ npm install cucumber-snippets-coffee-script
 ## Usage
 
 Add the following to your `cucumber-js` default profile
-* `--snippet-syntax node_modules/cucumber-snippets-coffee-script`
+* `--snippet-syntax ./node_modules/cucumber-snippets-coffee-script`
