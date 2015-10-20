@@ -1,0 +1,22 @@
+{
+  "name": "cucumber-snippets-coffee-script",
+  "version": "1.0.0",
+  "description": "CoffeeScript snippets for Cucumber.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlierudolph/cucumber-snippets-coffee-script.git"
+  },
+  "keywords": [
+    "cucumber",
+    "snippets"
+  ],
+  "author": {
+    "name": "Charlie Rudolph",
+    "email": "charles.w.rudolph@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlierudolph/cucumber-snippets-coffee-script/issues"
+  },
+  "homepage": "https://github.com/charlierudolph/cucumber-snippets-coffee-script#readme"
+}
