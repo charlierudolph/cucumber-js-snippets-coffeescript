@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/charlierudolph/cucumber-snippets-coffee-script/issues"
   },
-  "homepage": "https://github.com/charlierudolph/cucumber-snippets-coffee-script#readme"
+  "homepage": "https://github.com/charlierudolph/cucumber-snippets-coffee-script#readme",
+  "devDependencies": {
+    "coffee-script": "1.10.0",
+    "cucumber": "0.10.3",
+    "jsdiff-console": "2.0.0",
+    "observable-process": "1.0.1",
+    "tmp": "0.0.28"
+  }
 }
